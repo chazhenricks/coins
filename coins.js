@@ -45,7 +45,7 @@ console.log(coinPurse);
 
 }
 
-var money = 0.67;
+var money = 1.67;
 
 
 coinCounter(money);
